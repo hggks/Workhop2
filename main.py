@@ -2,6 +2,8 @@ def main():
     name = input('enter your name')
     print(f'name = {name}')
 <<<<<<< HEAD
+## done by beilan 
+
 
 
 
